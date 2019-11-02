@@ -10,7 +10,7 @@ Explore
 1
 00kahdichienja/Node_REST_API
  Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
-.gitignore
+Node_REST_API/.gitignore
 @kahdichienja kahdichienja Initial commit
 a816766 7 hours ago
 62 lines (44 sloc)  914 Bytes
@@ -50,7 +50,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+/node_modules
 jspm_packages/
 
 # TypeScript v1 declaration files
