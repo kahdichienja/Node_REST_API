@@ -14,7 +14,7 @@ Node_REST_API/.gitignore
 @kahdichienja kahdichienja Initial commit
 a816766 7 hours ago
 62 lines (44 sloc)  914 Bytes
- 
+node_modules
 # Logs
 logs
 *.log
